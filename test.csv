@@ -1,4 +1,4 @@
-PassengerId,Pclass,Name,Sex,Age fixed,SibSp,Parch,Fare,Cabin type filled,Embarked,Survived
+Patient ID,Immune,Diet,Name,Sex,Age,Siblings,Parents,G2Hb7,Type1,Type2
 892,3,"Kelly, Mr. James",male,34.5,0,0,7.8292,U,Q,0
 893,3,"Wilkes, Mrs. James (Ellen Needs)",female,47,1,0,7,U,S,1
 894,2,"Myles, Mr. Thomas Francis",male,62,0,0,9.6875,U,Q,0
